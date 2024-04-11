@@ -6,8 +6,8 @@ Seattle wants to become a carbon-neutral city by 2050. To achieve this, it is ne
 
 ## Objectives
 
-Therefore, this project seeks to develop a model capable of predicting the total energy consumption and greenhouse gas emissions of non-residential buildings for which these values have not yet been measured, based in particular on their structural data and the 2016 surveys.
-What's more, the Energy Star score is tedious to calculate using the approach currently in use. Its value in improving predictive performance is also being evaluated in this project.
+Therefore, this project seeks to develop a model capable of predicting the total energy consumption and greenhouse gas emissions of non-residential buildings for which these values have not yet been measured, based in particular on their structural data and the 2016 measurments.
+Furthermore, the Energy Star score is tedious to calculate by the current approach. Its value in improving predictive performances is also being evaluated in this project.
 
 ## Folder tree
 
