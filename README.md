@@ -15,7 +15,8 @@ De plus, le score Energy Star est fastidieux à calculer avec l’approche utili
 - Dataset : Datasets bruts.
 - Exports : Dataset et figures construits après EDA et feature engineering.
 
-
+#
+#
 
 # Anticipate the electricity consumption needs and greenhouse gas emissions of non-residential properties in Seattle
 
